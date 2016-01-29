@@ -1,0 +1,1 @@
+<?php exit;//a:3:{i:0;a:3:{s:4:"link";s:12:"邢栋博客";s:3:"url";s:23:"http://xingdong365.com/";s:3:"des";s:12:"邢栋博客";}i:1;a:3:{s:4:"link";s:15:"孙清林博客";s:3:"url";s:20:"http://sunqinglin.cn";s:3:"des";s:15:"孙清林博客";}i:2;a:3:{s:4:"link";s:8:"04007.cn";s:3:"url";s:19:"http://www.04007.cn";s:3:"des";s:12:"php行朋友";}}
