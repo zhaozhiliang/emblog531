@@ -46,19 +46,28 @@ require_once View::getView('module');
 </h1></div>
 <div id="header-right">
 <div id="header-icons">
+
+    <!--
 <ul>
 <li><a class="icon-ips" target="_blank" title="title" href="#">page1</a></li>
 <li><a class="icon-ipc" target="_blank" title="title" href="#">page2</a></li>
 <li><a class="icon-zhaofile" target="_blank" title="检索" href="/index.php?keyword=php">page3</a></li>
 <li><a class="icon-rss" target="_blank" title="订阅" href="/rss.php">订阅</a>
-</li></ul></div></div>
+</li></ul>
+    -->
+
+</div>
+</div>
+
+
+
 <div class="clear"></div>
 <div id="header-nav">
 <?php blog_navi();?>
 <div class="header-search">
 <form target="_blank" action="<?php echo BLOG_URL; ?>index.php" id="cse-search-box"><div>
 
-<input class="search-text-box" type="text" name="keyword" onblur="if(this.value==''){this.value='搜索神马的最有爱了...';}" onfocus="this.value='';" value="搜索神马的最有爱了..." size="31" />
+<input class="search-text-box" type="text" name="keyword" onblur="if(this.value==''){this.value='输入标题关键词...';}" onfocus="this.value='';" value="输入标题的关键词..." size="31" />
 <input type="submit" onmouseover="this.className='header-search-hover'" onmouseout="this.className='header-search-normal'" class="header-search-normal" value="" /></div>
 <script language="javascript">/*<![CDATA[*/var isIE = (navigator.userAgent.indexOf('MSIE') >= 0) && (navigator.userAgent.indexOf('Opera') < 0);if(isIE){document.getElementById("hl").value="zh-TW";}/*]]>*/</script>
 </form></div></div>
