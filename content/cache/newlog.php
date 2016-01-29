@@ -1,1 +1,1 @@
-<?php exit;//a:5:{i:0;a:2:{s:3:"gid";i:148;s:5:"title";s:33:"nginx的if(!-e)问题解决方案";}i:1;a:2:{s:3:"gid";i:147;s:5:"title";s:17:"liunx下git安装";}i:2;a:2:{s:3:"gid";i:146;s:5:"title";s:29:"linux下yaf的安装和配置";}i:3;a:2:{s:3:"gid";i:145;s:5:"title";s:34:"nginx配置php-fpm,解析php文件";}i:4;a:2:{s:3:"gid";i:144;s:5:"title";s:22:"linux下nginx的安装";}}
+<?php exit;//a:1:{i:0;a:2:{s:3:"gid";i:1;s:5:"title";s:17:"欢迎使用emlog";}}
